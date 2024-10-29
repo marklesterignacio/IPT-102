@@ -1,0 +1,48 @@
+﻿<div class="top-row ps-3 navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">ComputerStore</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column bg-light">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link add-to-cart" href="products">
+                <span class="oi oi-cart" aria-hidden="true"></span> Products
+            </NavLink>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
+
+<style>
+    .nav-link {
+        transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+    }
+
+        .nav-link:hover {
+            background-color: #28a745;
+            color: white;
+            box-shadow: 0 0 15px rgba(40, 167, 69, 0.7); /* Glow effect */
+            text-shadow: 0 0 5px rgba(255, 255, 255, 0.5); /* Optional: text glow */
+        }
+</style>

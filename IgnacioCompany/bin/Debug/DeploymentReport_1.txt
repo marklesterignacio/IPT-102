@@ -1,0 +1,17 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Department_Location] (Table)
+       [dbo].[Department_Location].[IX_Dept_Location_Locations] (Index)
+       [dbo].[FK_Dept_Location_Number] (Foreign Key)
+
+** Supporting actions

@@ -1,0 +1,50 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+<PageTitle>Online Computer Store</PageTitle>
+
+<div class="hero">
+    <img src="/pictures/techstore.jpg" alt="Welcome to Our Online Computer Store" />
+    <h1>Welcome to Our Online Computer Store!</h1>
+    <p>Your one-stop destination for all your computing needs!</p>
+</div>
+
+<section class="promotions">
+    <h2>Special Offers!</h2>
+    <p>Don't miss our exclusive discounts on selected items. Limited time only!</p>
+    <ul>
+        <li>20% off on Gaming Laptops</li>
+        <li>Buy One Get One 50% off on Accessories</li>
+        <li>Free shipping on orders over $500</li>
+    </ul>
+</section>
+
+<section class="testimonials">
+    <h2>What Our Customers Say</h2>
+    <blockquote>
+        <p>"Great selection and prices!" - Flamen</p>
+        <p>"Excellent customer service!" - Sheets</p>
+    </blockquote>
+</section>
+
+<section class="newsletter">
+    <h2>Stay Updated!</h2>
+    <p>Sign up for our newsletter for the latest deals and updates.</p>
+    <input type="email" placeholder="Enter your email" />
+    <button>Subscribe</button>
+</section>
+
+
+<section class="navigation">
+    <button @onclick="NavigateToProducts">View Products</button>
+</section>
+
+<footer>
+    <p>&copy; 2024 Online Computer Store. All rights reserved.</p>
+</footer>
+
+@code {
+    private void NavigateToProducts()
+    {
+        NavigationManager.NavigateTo("/products"); 
+    }
+}

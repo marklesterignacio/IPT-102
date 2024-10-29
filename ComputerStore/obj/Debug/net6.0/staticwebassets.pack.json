@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ComputerStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ComputerStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\music\\Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video).mp3",
+      "PackagePath": "staticwebassets\\music\\Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video).mp3"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\pictures\\2in1Laptop.jpg",
+      "PackagePath": "staticwebassets\\pictures\\2in1Laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\pictures\\DesktopPC.jpg",
+      "PackagePath": "staticwebassets\\pictures\\DesktopPC.jpg"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\pictures\\GamingLaptop.jpg",
+      "PackagePath": "staticwebassets\\pictures\\GamingLaptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\pictures\\GamingMonitor.jpg",
+      "PackagePath": "staticwebassets\\pictures\\GamingMonitor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\pictures\\MechanicalKeyboard.jpg",
+      "PackagePath": "staticwebassets\\pictures\\MechanicalKeyboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\pictures\\Noise cancelling headphone.jpg",
+      "PackagePath": "staticwebassets\\pictures\\Noise cancelling headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\markl\\OneDrive\\Desktop\\Myproject\\IgnacioCompany\\ComputerStore\\wwwroot\\pictures\\TechStore.jpg",
+      "PackagePath": "staticwebassets\\pictures\\TechStore.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ComputerStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ComputerStore.props",
+      "PackagePath": "build\\ComputerStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ComputerStore.props",
+      "PackagePath": "buildMultiTargeting\\ComputerStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ComputerStore.props",
+      "PackagePath": "buildTransitive\\ComputerStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
